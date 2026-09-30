@@ -1,5 +1,7 @@
 # Mega 2560 Tutorials
 
+![ELEGOO Mega 2560 R3](Mega_2560.png)
+
 The following tutorials are available as PDF documents. The editable Word (`.docx`) versions are also included in this directory.
 
 ## Tutorials
