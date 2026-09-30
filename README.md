@@ -4,7 +4,7 @@ This repository contains the tutorials developed for the SoutheastCon Circuit De
 
 The tutorials provide hands-on instruction in electronics, microcontrollers, communications, sensors, and related technologies used in the competition. They are intended to be useful both for SoutheastCon participants and for anyone interested in learning through practical circuit-design projects.
 
-![IEEE SoutheastCon 2027 — Daytona Beach](images/SoutheastCon_2027_Daytona_Beach.jpg)
+![IEEE SoutheastCon 2027 — Daytona Beach](images/SoutheastCon_2027_Daytona_Beach.png)
 
 ## Tutorial Categories
 
