@@ -1,6 +1,6 @@
 # ESP32 Tutorials
 
-![ESP32-WROOM-32 development board](ESP32-WROOM-32.png)
+![ESP32-WROOM-32 development board](../images/ESP32-WROOM-32.png)
 
 The following tutorials are available as PDF documents. The editable Word (`.docx`) versions are also included in this directory.
 
