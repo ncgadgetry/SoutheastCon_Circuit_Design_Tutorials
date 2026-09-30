@@ -1,5 +1,7 @@
 # SoutheastCon 2027 Tutorials --- Start Here
 
+![SoutheastCon Getting Started](images/SoutheastCon_Getting_Started.png)
+
 **Tutorial Group:** All Groups\
 **Last modified:** September 27, 2026 1:48 PM EDT\
 **Author:** Rodney Radford
