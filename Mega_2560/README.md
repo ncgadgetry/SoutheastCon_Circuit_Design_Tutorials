@@ -2,6 +2,10 @@
 
 ![ELEGOO Mega 2560 R3](../images/Mega_2560.png)
 
+The **MEGA_2560** tutorials cover the Arduino Mega 2560 platform and the hardware and programming techniques used with it.
+
+Each tutorial builds on the information and techniques of the previous tutorials and are designed to be completed in their presented order.
+
 The following tutorials are available as PDF documents. The editable Word (`.docx`) versions are also included in this directory.
 
 ## Tutorials

@@ -2,17 +2,12 @@
 
 ![SoutheastCon AI](../images/SoutheastCon_AI.png)
 
-The **AI** tutorials introduce students to practical applications of artificial intelligence and machine learning in embedded and maker projects.
+The **AI** tutorials will introduce students to practical applications of artificial intelligence as a tool for engineering and project development.
 
-These tutorials are intended to build an understanding of what AI can do, how AI systems interact with hardware and software, and how AI techniques can be incorporated into projects such as those used in the SoutheastCon Circuit Design Challenge.
+The emphasis will be on useful, hands-on applications rather than AI theory. Topics will focus on using AI to assist with tasks such as finding and understanding technical information, working with datasheets, troubleshooting hardware and software, and exploring engineering solutions.
 
-## Planned Topics
+## Future Topics
 
-- **AI Fundamentals** — Introduce the basic concepts behind artificial intelligence and machine learning.
-- **AI Tools and Services** — Explore practical AI tools that can assist with programming, troubleshooting, documentation, and project development.
-- **AI and Embedded Systems** — Examine ways AI can interact with microcontrollers, sensors, and other hardware.
-- **Data and Sensors** — Explore how sensor data can be collected and prepared for AI-based processing.
-- **Practical AI Projects** — Build progressively more useful examples that demonstrate AI concepts in a hands-on environment.
-- **AI in the Competition** — Explore potential applications of AI within the SoutheastCon Circuit Design Challenge.
+AI tutorials are planned for future development.
 
-The goal is to keep these tutorials practical and accessible, emphasizing experimentation and useful applications rather than treating AI as a purely theoretical subject.
+The specific topics and tutorials will be added as they are developed and tested.

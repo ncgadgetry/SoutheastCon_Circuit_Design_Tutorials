@@ -2,6 +2,10 @@
 
 ![ESP32-WROOM-32 development board](../images/ESP32-WROOM-32.png)
 
+The **ESP32** tutorials cover the ESP32 platform, including programming, networking, displays, sensors, and other ESP32-based projects and are designed to be completed in their presented order.
+
+Each tutorial builds on the information and techniques of the previous tutorials and are designed to be completed in their presented order.
+
 The following tutorials are available as PDF documents. The editable Word (`.docx`) versions are also included in this directory.
 
 ## Tutorials

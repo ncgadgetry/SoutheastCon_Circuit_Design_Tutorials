@@ -41,6 +41,8 @@ problem-solving techniques that may be useful to your team.
 The tutorials are organized into groups so that related material stays
 together.
 
+In each group, each tutorial builds on the information and techniques of the previous tutorials and are designed to be completed in their presented order.
+
 ## Why Some Tutorials May Seem Basic
 
 Some teams may find parts of these tutorials very basic, particularly
