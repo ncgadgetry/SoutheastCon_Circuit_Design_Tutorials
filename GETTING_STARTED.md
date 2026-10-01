@@ -169,8 +169,6 @@ additional capabilities of the ESP32.
 
 ## Communication Tutorials
 
-> **Note:** these tutorials will be released at a later date.
-
 The communication tutorials introduce techniques for transferring
 information between the microcontrollers.
 
