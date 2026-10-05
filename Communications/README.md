@@ -12,11 +12,5 @@ The following tutorials are available as PDF documents. The editable Word (`.doc
 
 * [Direct Serial Communication](SoutheastCon_Communication_01_Direct_Serial.pdf)
 * [Short IR Communication](SoutheastCon_Communication_02_Short_IR_Communication.pdf)
-
-## Future Topics
-
-Additional communication tutorials will build on these fundamentals and explore more advanced communication techniques, including:
-
-* **Modulated Infrared Communication** — Use a modulated infrared carrier and a demodulating receiver for improved reliability.
-* **Bidirectional Communication** — Develop two-way communication between the Arduino Mega 2560 and ESP32.
-* **CRC Error Detection** — Add error detection to transmitted data.
+* [Modulated Infrared Communication](SoutheastCon_Communication_03_38kHz_Modulated_IR.pdf)
+* [CRC Error Detection](SoutheastCon_Communication_04_CRC_Error_Detection.pdf)
