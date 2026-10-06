@@ -8,13 +8,13 @@ These documents are provided as reference material. Students should refer to the
 
 ### Arduino Mega 2560
 
-**File:** `atmel-2549-8-bit-avr-microcontroller-atmega640-1280-1281-2560-2561_datasheet.pdf`
+[**ATmega640/1280/1281/2560/2561 Datasheet**](atmel-2549-8-bit-avr-microcontroller-atmega640-1280-1281-2560-2561_datasheet.pdf)
 
 The ATmega2560 microcontroller is the processor used on the Arduino Mega 2560. This datasheet provides detailed information about the microcontroller's pins, memory, timers, ADC, UARTs, SPI, I2C, interrupts, and other internal peripherals.
 
 ### ESP32-WROOM-32
 
-**File:** `esp32-wroom-32_datasheet_en.pdf`
+[**ESP32-WROOM-32 Datasheet**](esp32-wroom-32_datasheet_en.pdf)
 
 The ESP32-WROOM-32 module is used in the ESP32 tutorials and in the communications exercises. The datasheet provides information about the module, power requirements, GPIO, UART, SPI, I2C, wireless capabilities, and other features.
 
@@ -24,7 +24,7 @@ The ESP32-WROOM-32 module is used in the ESP32 tutorials and in the communicatio
 
 ### TSSP93038SS1ZA 38 kHz IR Receiver
 
-**File:** `tssp93038ss1za.pdf`
+[**TSSP93038SS1ZA Datasheet**](tssp93038ss1za.pdf)
 
 The Vishay TSSP93038SS1ZA is the 38 kHz infrared receiver used in the modulated IR communication tutorial.
 
@@ -34,7 +34,7 @@ This is an important reference for **Communication 03**.
 
 ### TSAL6200 Infrared LED
 
-**File:** `tsal6200.pdf`
+[**TSAL6200 Datasheet**](tsal6200.pdf)
 
 The Vishay TSAL6200 is a high-power 940 nm infrared-emitting diode used with the TSSP93038SS1ZA receiver.
 
@@ -46,7 +46,7 @@ This is an important reference for **Communication 03**.
 
 ### INA219 Current/Power Monitor
 
-**File:** `ina219.pdf`
+[**INA219 Datasheet**](ina219.pdf)
 
 The INA219 is a bidirectional current and power monitor with an I2C interface. It can measure bus voltage and shunt voltage and can report calculated current and power.
 
@@ -54,7 +54,7 @@ The datasheet includes information about the device's electrical characteristics
 
 ### ADXL345 3-Axis Accelerometer
 
-**File:** `adxl345.pdf`
+[**ADXL345 Datasheet**](adxl345.pdf)
 
 The ADXL345 is a digital three-axis accelerometer with selectable measurement ranges and both I2C and SPI interfaces.
 
@@ -62,7 +62,7 @@ The datasheet provides information about the sensor's operating modes, registers
 
 ### MPU-6050
 
-**File:** `RM-MPU-6000A.pdf`
+[**MPU-6000/MPU-6050 Register Map and Descriptions**](RM-MPU-6000A.pdf)
 
 This document is the **MPU-6000/MPU-6050 Register Map and Descriptions** from InvenSense. It provides detailed information about the MPU-6050's registers and configuration.
 
@@ -74,7 +74,7 @@ This document is useful when a tutorial requires students to work directly with 
 
 ### SSD1306 OLED Controller
 
-**File:** `SSD1306.pdf`
+[**SSD1306 Datasheet**](SSD1306.pdf)
 
 The SSD1306 is the display controller used by many small monochrome OLED modules.
 
