@@ -36,6 +36,13 @@ If you are new to the tutorials, begin with:
 
 It explains how the tutorials are organized and provides guidance on where to begin.
 
+## Datasheets
+
+These documents are provided as reference material and contain additional information about a component's electrical characteristics, pinout, registers, timing, or operation wheen needed
+
+[Datasheets](./datasheets/README.md)
+
+It explains how the tutorials are organized and provides guidance on where to begin.
 ## SoutheastCon Circuit Design Challenge
 
 The tutorials are part of the educational material supporting the SoutheastCon Circuit Design Challenge. They are designed to build skills progressively, with each tutorial introducing concepts and techniques that can be used in later projects.
@@ -47,6 +54,7 @@ The tutorials are part of the educational material supporting the SoutheastCon C
     ESP32/
     Communications/
     AI/
+    datasheets/
 
 Tutorials are organized by their primary subject area. Additional categories may be added as the tutorial collection grows.
 
