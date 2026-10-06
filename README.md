@@ -42,7 +42,6 @@ These documents are provided as reference material and contain additional inform
 
 [Datasheets](./datasheets/README.md)
 
-It explains how the tutorials are organized and provides guidance on where to begin.
 ## SoutheastCon Circuit Design Challenge
 
 The tutorials are part of the educational material supporting the SoutheastCon Circuit Design Challenge. They are designed to build skills progressively, with each tutorial introducing concepts and techniques that can be used in later projects.
