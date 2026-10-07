@@ -22,26 +22,6 @@ The ESP32-WROOM-32 module is used in the ESP32 tutorials and in the communicatio
 
 > **Note:** This datasheet identifies the ESP32-WROOM-32 as **Not Recommended for New Designs (NRND)**. It is retained here because this is the module used by the competition hardware and tutorials.
 
-## Communication Components
-
-### TSSP93038SS1ZA 38 kHz IR Receiver
-
-[**TSSP93038SS1ZA Datasheet**](tssp93038ss1za.pdf)
-
-The Vishay TSSP93038SS1ZA is the 38 kHz infrared receiver used in the modulated IR communication tutorial.
-
-The device responds to 38 kHz infrared bursts and provides an active-low digital output to the microcontroller. The datasheet contains the receiver's electrical characteristics, pinout, operating limits, and timing information.
-
-This is an important reference for **Communication 03**.
-
-### TSAL6200 Infrared LED
-
-[**TSAL6200 Datasheet**](tsal6200.pdf)
-
-The Vishay TSAL6200 is a high-power 940 nm infrared-emitting diode used with the TSSP93038SS1ZA receiver.
-
-The datasheet provides information about forward voltage, forward current, pulse operation, radiant intensity, wavelength, package dimensions, and other electrical and optical characteristics.
-
 ## Sensors and Measurement
 
 ### INA219 Current/Power Monitor
@@ -83,6 +63,26 @@ This reference provides information about the module's pins, trigger and echo ti
 The DS1307 is an I2C real-time clock/calendar device that maintains seconds, minutes, hours, day, date, month, and year information. It includes battery-backed timekeeping so the clock can continue operating when primary power is removed.
 
 The datasheet provides information about the I2C interface, register map, timekeeping operation, oscillator requirements, electrical characteristics, and battery-backed operation.
+
+## Communication Components
+
+### TSSP93038SS1ZA 38 kHz IR Receiver
+
+[**TSSP93038SS1ZA Datasheet**](tssp93038ss1za.pdf)
+
+The Vishay TSSP93038SS1ZA is the 38 kHz infrared receiver used in the modulated IR communication tutorial.
+
+The device responds to 38 kHz infrared bursts and provides an active-low digital output to the microcontroller. The datasheet contains the receiver's electrical characteristics, pinout, operating limits, and timing information.
+
+
+### TSAL6200 Infrared LED
+
+[**TSAL6200 Datasheet**](tsal6200.pdf)
+
+The Vishay TSAL6200 is a high-power 940 nm infrared-emitting diode used with the TSSP93038SS1ZA receiver.
+
+The datasheet provides information about forward voltage, forward current, pulse operation, radiant intensity, wavelength, package dimensions, and other electrical and optical characteristics.
+
 
 ## Displays and Output Devices
 
