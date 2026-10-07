@@ -42,7 +42,6 @@ The Vishay TSAL6200 is a high-power 940 nm infrared-emitting diode used with the
 
 The datasheet provides information about forward voltage, forward current, pulse operation, radiant intensity, wavelength, package dimensions, and other electrical and optical characteristics.
 
-This is an important reference for **Communication 03**.
 ## Sensors and Measurement
 
 ### INA219 Current/Power Monitor
@@ -66,8 +65,6 @@ The datasheet provides information about the sensor's operating modes, registers
 [**MPU-6000/MPU-6050 Register Map and Descriptions**](RM-MPU-6000A.pdf)
 
 This document is the **MPU-6000/MPU-6050 Register Map and Descriptions** from InvenSense. It provides detailed information about the MPU-6050's registers and configuration.
-
-This document is useful when a tutorial requires students to work directly with the MPU-6050's registers or configure its accelerometer and gyroscope.
 
 > **Note:** This is a register-map reference rather than a complete MPU-6050 datasheet.
 
