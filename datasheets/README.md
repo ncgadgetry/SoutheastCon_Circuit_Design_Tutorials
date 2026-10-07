@@ -2,7 +2,7 @@
 
 ![Datasheets](../images/SoutheastCon_Datasheets.png)
 
-This directory contains datasheets and technical reference documents for components used in the SoutheastCon Circuit Design Challenge tutorials.
+This directory contains datasheets and technical reference documents for components used in the SoutheastCon Circuit Design Challenge tutorials and competitions.
 
 These documents are provided as reference material. Students should refer to the appropriate documentation when a tutorial directs them to do so, or when additional information about a component's electrical characteristics, pinout, registers, timing, or operation is needed.
 
@@ -43,7 +43,6 @@ The Vishay TSAL6200 is a high-power 940 nm infrared-emitting diode used with the
 The datasheet provides information about forward voltage, forward current, pulse operation, radiant intensity, wavelength, package dimensions, and other electrical and optical characteristics.
 
 This is an important reference for **Communication 03**.
-
 ## Sensors and Measurement
 
 ### INA219 Current/Power Monitor
@@ -72,7 +71,23 @@ This document is useful when a tutorial requires students to work directly with 
 
 > **Note:** This is a register-map reference rather than a complete MPU-6050 datasheet.
 
-## Display
+### HC-SR04 Ultrasonic Distance Sensor
+
+[**HC-SR04 Ultrasonic Module Reference**](hc-sr04_ultrasonic_module.pdf)
+
+The HC-SR04 is an ultrasonic distance-measurement module that uses a trigger pulse and an echo pulse to measure the time required for an ultrasonic burst to travel to an object and return.
+
+This reference provides information about the module's pins, trigger and echo timing, operating voltage, measurement range, and basic connection and timing requirements.
+
+### DS1307 Real-Time Clock
+
+[**DS1307 Real-Time Clock Datasheet**](ds1307.pdf)
+
+The DS1307 is an I2C real-time clock/calendar device that maintains seconds, minutes, hours, day, date, month, and year information. It includes battery-backed timekeeping so the clock can continue operating when primary power is removed.
+
+The datasheet provides information about the I2C interface, register map, timekeeping operation, oscillator requirements, electrical characteristics, and battery-backed operation.
+
+## Displays and Output Devices
 
 ### SSD1306 OLED Controller
 
@@ -83,6 +98,58 @@ The SSD1306 is the display controller used by many small monochrome OLED modules
 The datasheet provides information about the controller's display memory, commands, interfaces, timing, electrical characteristics, and configuration.
 
 The specific OLED modules used in the tutorials may contain additional circuitry beyond the SSD1306 controller itself. Module-specific documentation may therefore differ from this controller datasheet.
+
+### MAX7219 / MAX7221 LED Display Drivers
+
+[**MAX7219/MAX7221 Datasheet**](max7219-max7221.pdf)
+
+The MAX7219 and MAX7221 are serially interfaced display drivers for controlling common-cathode LED displays, bar graphs, and individual LEDs. They provide an SPI-compatible serial interface and reduce the number of microcontroller pins required to control multiple display elements.
+
+The datasheet provides information about the serial interface, register format, scan operation, current programming, display configuration, and electrical characteristics.
+
+## Input and Identification Components
+
+### MFRC522 RFID Reader IC
+
+[**MFRC522 Datasheet**](MFRC522.pdf)
+
+The MFRC522 is a highly integrated reader/writer IC for contactless communication at 13.56 MHz. It is commonly found on inexpensive RFID/NFC reader modules used with microcontrollers.
+
+The datasheet provides information about the RF interface, supported communication protocols, registers, SPI/serial interfaces, operating modes, and electrical characteristics.
+
+## General purpose ICs and active devices
+
+### SN74HC595 8-Bit Shift Register
+
+[**SN74HC595 Datasheet**](sn74hc595.pdf)
+
+The SN74HC595 is an 8-bit serial-in, parallel-out shift register with a storage register and tri-state outputs. It allows a microcontroller to control multiple digital outputs using a small number of pins.
+
+The datasheet provides information about the serial interface, latch and output-enable controls, timing requirements, logic levels, and electrical characteristics.
+
+### ULN2003A Darlington Transistor Array
+
+[**ULN2003A Datasheet**](uln2003a.pdf)
+
+The ULN2003A is a seven-channel Darlington transistor array designed to allow low-current logic outputs to drive higher-current loads. It includes integrated clamp diodes for inductive loads such as relays, motors, and solenoids.
+
+The datasheet provides pinout information, output-current capabilities, saturation characteristics, clamp-diode details, and operating limits.
+
+### 2N2222 NPN Transistor
+
+[**2N2222 Datasheet**](DS_2n2222.pdf)
+
+The 2N2222 is a general-purpose NPN bipolar junction transistor commonly used for switching and amplification. In tutorial circuits it can be used as a low-side switch to control loads that cannot be driven directly from a microcontroller GPIO.
+
+The datasheet provides pin configuration, maximum ratings, current and voltage characteristics, and switching specifications.
+
+### 1N4001 Rectifier Diode
+
+[**1N4001 Datasheet**](1n4001.pdf)
+
+The 1N4001 is a general-purpose silicon rectifier diode rated for applications involving rectification and protection. It can also be used as a simple protection diode across inductive loads when appropriate.
+
+The datasheet provides forward-voltage, reverse-voltage, current, leakage, and other electrical characteristics.
 
 ## Using the Datasheets
 
@@ -102,3 +169,4 @@ The datasheet is the authoritative source for the electrical and operating speci
 The documents in this directory were obtained from component manufacturers or reputable electronics distributors and resellers. Where possible, the original manufacturer's documentation is used.
 
 Datasheets are provided for educational and reference purposes as part of the SoutheastCon Circuit Design Challenge tutorial materials.
+
