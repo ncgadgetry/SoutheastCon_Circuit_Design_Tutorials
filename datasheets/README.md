@@ -1,5 +1,7 @@
 # Datasheets
 
+![Datasheets](../images/SoutheastCon_Datasheets.png)
+
 This directory contains datasheets and technical reference documents for components used in the SoutheastCon Circuit Design Challenge tutorials.
 
 These documents are provided as reference material. Students should refer to the appropriate documentation when a tutorial directs them to do so, or when additional information about a component's electrical characteristics, pinout, registers, timing, or operation is needed.
